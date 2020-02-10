@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "874547049486",
+    "firebase_url": "https://tiketsaya-81b3d.firebaseio.com",
+    "project_id": "tiketsaya-81b3d",
+    "storage_bucket": "tiketsaya-81b3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874547049486:android:d808bfd7cbd5e93aaa385f",
+        "android_client_info": {
+          "package_name": "com.example.tiketsaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874547049486-bmmt7t1f1rr4jlvshbbqorjokd8til54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tiketsaya",
+            "certificate_hash": "66c49081b98a990cf0e42bd5b1f7c8ba6ac84c2b"
+          }
+        },
+        {
+          "client_id": "874547049486-pj0d32bq4mkgni9qd79c90vuutu48tre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3aFcLM63ssBPhsKpe9TEtaT3XmuVTisQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874547049486-pj0d32bq4mkgni9qd79c90vuutu48tre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874547049486:android:0bdbed1cef97d2e2aa385f",
+        "android_client_info": {
+          "package_name": "com.firebase.haikalharin.tiketsaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874547049486-d7915kg9ra2n5tkudfbumtp0pl8a0tos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebase.haikalharin.tiketsaya",
+            "certificate_hash": "66c49081b98a990cf0e42bd5b1f7c8ba6ac84c2b"
+          }
+        },
+        {
+          "client_id": "874547049486-pj0d32bq4mkgni9qd79c90vuutu48tre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3aFcLM63ssBPhsKpe9TEtaT3XmuVTisQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874547049486-pj0d32bq4mkgni9qd79c90vuutu48tre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874547049486:android:48ecc90f1b946c97aa385f",
+        "android_client_info": {
+          "package_name": "com.firebase.utaputranto.tiketsaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874547049486-7m6r44gfhn9m7219aqnbb2jupsmv45q0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebase.utaputranto.tiketsaya",
+            "certificate_hash": "66c49081b98a990cf0e42bd5b1f7c8ba6ac84c2b"
+          }
+        },
+        {
+          "client_id": "874547049486-pj0d32bq4mkgni9qd79c90vuutu48tre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3aFcLM63ssBPhsKpe9TEtaT3XmuVTisQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874547049486-pj0d32bq4mkgni9qd79c90vuutu48tre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874547049486:android:1b6500f40fc3f68caa385f",
+        "android_client_info": {
+          "package_name": "com.haikalharin.tiketsaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874547049486-7vvf9mekg6ka9ldmhf6isk4mcor43cp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haikalharin.tiketsaya",
+            "certificate_hash": "66c49081b98a990cf0e42bd5b1f7c8ba6ac84c2b"
+          }
+        },
+        {
+          "client_id": "874547049486-pj0d32bq4mkgni9qd79c90vuutu48tre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3aFcLM63ssBPhsKpe9TEtaT3XmuVTisQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874547049486-pj0d32bq4mkgni9qd79c90vuutu48tre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
